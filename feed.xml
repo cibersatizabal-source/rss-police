@@ -3,7 +3,23 @@
 <rss version="2.0">
 
   <channel>
+<item>
 
+  <title>ALERTA | PRUEBA DEL SISTEMA</title>
+
+  <link>https://prueba.alerta/</link>
+
+  <description><![CDATA[Esta es una prueba creada manualmente para validar la alerta.]]></description>
+
+  <guid>prueba-12345</guid>
+
+  <pubDate>Mon, 10 Feb 2026 12:00:00 GMT</pubDate>
+
+  <source url="https://prueba.com">prueba.com</source>
+
+</item>
+
+ 
     <title>Feed en construcción</title>
 
     <description>Feed temporal</description>
